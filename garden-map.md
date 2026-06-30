@@ -24,7 +24,9 @@ Connected to:
 - Landscape governance
 
 ---
+## Reading notes
 
+- [Shahar & Yefet (2024)](readings/shahar-yefet-2024.md)
 ## Questions growing in this garden
 
 - How do different legal systems interact in conservation?
