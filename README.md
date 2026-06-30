@@ -11,10 +11,12 @@ A living collection of my research thinking.
 - Community forestry
 - Landscape governance
 
-## Concepts
+## 🌿 Concepts
 
 - [Legal Pluralism](concepts/legal-pluralism.md)
+
 - [Authority](concepts/authority.md)
+
 - [Recognition](concepts/recognition.md)
 
 ## Purpose
