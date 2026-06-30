@@ -1,27 +1,44 @@
-# Augusta-research-garden
-
+# 🌱 Augusta's Research Garden
 
 A living collection of my research thinking.
 
-## Current themes
+This garden documents ideas, readings, questions, and reflections about environmental governance and legal pluralism.
 
-- Legal pluralism
-- Environmental governance
-- Conservation partnerships
-- Community forestry
-- Landscape governance
+---
 
-## 🌿 Concepts
-## 🌳 Garden Map
+## 🌿 Explore the garden
 
-[Explore the connections between ideas](garden-map.md)
+### Concepts
 
 - [Legal Pluralism](concepts/legal-pluralism.md)
-
 - [Authority](concepts/authority.md)
-
 - [Recognition](concepts/recognition.md)
+
+### 🌳 Garden Map
+
+Explore connections between ideas:
+
+[Open Garden Map](garden-map.md)
+
+### 📚 Reading Notes
+
+- [Griffiths (1986) — Legal Pluralism](readings/griffiths-1986.md)
+- [Benda-Beckmann — Legal Pluralism](readings/benda-beckmann.md)
+- [Bavinck & Gupta — Legal Pluralism](readings/bavinck-gupta.md)
+- [Cleaver (2012) — Institutional Bricolage](readings/cleaver-2012.md)
+- [Shahar & Yefet (2024) — Legal Pluralism](readings/shahar-yefet-2024.md)
+- [Tamanaha — Meaning of Law](readings/tamanaha.md)
+
+---
+
+## 🌱 About this garden
+
+[How I use this garden](about/how-i-use-this-garden.md)
+
+---
 
 ## Purpose
 
-This is a space to document evolving ideas, readings, questions, and connections.
+This is not a finished publication archive.
+
+It is a space where ideas grow, connect, and evolve.
