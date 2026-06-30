@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Augusta's Research Garden"
 ---
 
