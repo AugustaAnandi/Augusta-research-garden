@@ -12,6 +12,9 @@ A living collection of my research thinking.
 - Landscape governance
 
 ## 🌿 Concepts
+## 🌳 Garden Map
+
+[Explore the connections between ideas](garden-map.md)
 
 - [Legal Pluralism](concepts/legal-pluralism.md)
 
