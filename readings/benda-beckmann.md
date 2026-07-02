@@ -1,5 +1,10 @@
 # Franz von Benda-Beckmann — Legal Pluralism
 
+## Where you are in the garden
+
+→ Conversations with thinkers  
+→ Legal Pluralism family
+
 ## Main idea
 
 Legal pluralism is not only about different legal systems existing together.
