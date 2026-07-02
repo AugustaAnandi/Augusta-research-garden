@@ -13,7 +13,7 @@ Choose a path:
 ---
 
 ## 🌿 Thinking Paths
-
+- [🌿 Concept Map](map.md)
 - [Integrated Governance](frameworks/integrated-governance.md)
 - What counts as law in conservation?
 - Authority and recognition
