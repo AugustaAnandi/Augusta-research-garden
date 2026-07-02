@@ -1,5 +1,10 @@
 # Frances Cleaver (2012) — Development Through Bricolage
 
+## Where you are in the garden
+
+→ Conversations with thinkers  
+→ Legal Pluralism family
+
 ## Main idea
 
 Institutions are not always designed perfectly.
