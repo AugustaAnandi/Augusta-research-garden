@@ -1,4 +1,9 @@
-# Brian Z. Tamanaha — Legal Pluralism and the Meaning of Law
+# 🌿 Tamanaha — Meaning of Law
+
+## Where you are in the garden
+
+→ Conversations with thinkers  
+→ Legal Pluralism family
 
 ## Main idea
 
