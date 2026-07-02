@@ -1,5 +1,10 @@
 # Shahar & Yefet (2024) — Legal Pluralism
 
+## Where you are in the garden
+
+→ Conversations with thinkers  
+→ Legal Pluralism family
+
 ## Citation
 
 Shahar, Y. & Yefet, K. (2024).
