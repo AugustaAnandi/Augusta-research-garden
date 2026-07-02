@@ -1,4 +1,8 @@
 # Bavinck & Gupta — Legal Pluralism and Governance
+## Where you are in the garden
+
+→ Conversations with thinkers  
+→ Legal Pluralism family
 
 ## Main idea
 
