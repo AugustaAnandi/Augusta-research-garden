@@ -1,5 +1,9 @@
 # John Griffiths (1986) — What is Legal Pluralism?
 
+## Where you are in the garden
+
+→ Conversations with thinkers  
+→ Legal Pluralism family
 ## Main idea
 
 Legal pluralism refers to the presence of multiple legal orders within the same social field.
