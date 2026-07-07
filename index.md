@@ -1,5 +1,3 @@
-# 🌱 Augusta’s Research Garden
-
 A living space of thinking on environmental governance.
 
 ---
