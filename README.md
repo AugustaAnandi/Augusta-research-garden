@@ -42,3 +42,7 @@ Explore connections between ideas:
 This is not a finished publication archive.
 
 It is a space where ideas grow, connect, and evolve.
+
+## Emerging concepts
+
+- [Beyond Stakeholders: Landscape Governance Through Multiple Normative Orders](concepts/multiple-normative-orders.md)
